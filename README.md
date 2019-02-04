@@ -9,4 +9,6 @@ Train baseline Resnet50 model （done)  accuracy: 91.64%
 
 Adding warmup LR (done) accracy:92.32%(+0.68%)
 
-Adding cosine decay（on progress）
+Adding cosine decay（done) accuracy:93.01%（+0.69%）
+
+Adding label smoothing
