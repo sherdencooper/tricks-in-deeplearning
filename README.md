@@ -11,4 +11,6 @@ Adding warmup LR (done) accracy:92.32%(+0.68%)
 
 Adding cosine decay（done) accuracy:93.01%（+0.69%）
 
-Adding label smoothing
+Adding cosine decay based on batch (done). But it does not improve for accuracy:92.93%
+
+Adding label smoothing(on progress)
