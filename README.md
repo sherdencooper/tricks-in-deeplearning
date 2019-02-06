@@ -13,4 +13,6 @@ Adding cosine decay（done) accuracy:93.01%（+0.69%）
 
 Adding cosine decay based on batch (done). But it does not improve for accuracy:92.93%
 
+Adding mixup(done) accuracy:94.10%(+1.09%)
+
 Adding label smoothing(on progress)
