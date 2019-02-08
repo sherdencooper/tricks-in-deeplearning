@@ -15,7 +15,7 @@ Adding cosine decay based on batch (done). But it does not improve for accuracy:
 
 Adding mixup(done) accuracy:94.10%(+1.09%)
 
-I tried label smoothing but it does not improve. According to https://www.researchgate.net/publication/327004087_Empirical_study_on_label_smoothing_in_neural_networks, cifar10 is not suitable for label smoothing.
+I tried label smoothing but it does not improve. According to https://www.researchgate.net/publication/327004087_Empirical_study_on_label_smoothing_in_neural_networks, label smoothing is not suitable for cifar 10.
 
 Using smaller batch size :accuracy 94.38%(+0.28%)
 
