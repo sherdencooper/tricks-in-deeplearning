@@ -1,4 +1,7 @@
 # tricks-in-deeplearning
+
+This repo is part work of https://github.com/SJTU-DL-lab/Bag_of_Tricks_CNN and the pytorch implementation achieves about 96.6% acc.
+
 Using different tricks to improve performance of resetnet by Keras
 
 Paper：https://arxiv.org/abs/1812.01187
